@@ -1,0 +1,14 @@
+Package: egpdgam2
+Type: Package
+Title: GAM fit of the EGPD model
+Version: 1.0
+Date: 2022-05-20
+Author: Abubakar Haruna
+Maintainer: Abubakar Haruna <abbaharuna87@gmail.com>
+Description:Includes the EGPD family in the package of evgam. All credits goes to the author of the evgam package.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.4.6), mgcv
+LinkingTo: Rcpp, RcppArmadillo
+Depends: R (>= 3.5.0)
+RoxygenNote: 7.1.0
+NeedsCompilation: yes
